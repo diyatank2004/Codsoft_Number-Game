@@ -37,7 +37,6 @@ public class Number_game
             {
                 System.out.println("Too low !!! The number is less than "+num);
             }
-            System.out.println("you have "+(a--)+" attempts left");
         }
         System.out.println("");
         if(flag==0)
